@@ -8,6 +8,10 @@
 
 ## Genaufbau
 
+Im Gegenteil zu den Genen der Eukaryoten besitzen die der Prokaryoten keine Introns.
+
+Eine Besonderheit der Prokaryoten besteht außerdem darin, dass sie Operons bilden können, das heißt eine Funktionseinheit, die aus mehreren Genen besteht und verschiedene Proteine codiert, jedoch nur einen gemeinsamen Promotor besitzt. Dies tritt bei Eukaryoten fast gar nicht auf.
+
 ## Reifung der mDNA
 
 ## Ribosomenaufbau
