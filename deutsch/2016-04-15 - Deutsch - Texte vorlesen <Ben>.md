@@ -8,8 +8,5 @@
 - +: abschnitsweise vorgegangen
 - +: heubodenmetapher
 
-## My
-- +: Inhaltszsm.
-- +: genaue Russlandanalyse
-- +: Stilanalyse
-- +: Tempusanalyse
+## My - +: Inhaltszsm. - +: genaue Russlandanalyse - +: Stilanalyse - +:
+Tempusanalyse
