@@ -1,0 +1,35 @@
+# Übungsaufgaben für den Test am 26. 04. 2016
+
+## Aufgaben
+
+1. Zeichne einen quadratischen Pyramidenstumpf mit
+    - h = 3cm
+    - a₁ = 4cm
+    - a₂ = 2cm
+2. Berechne V, A₀, α (Neigungswinkel der Seitenkante), β (Neigungswinkel der Seitenfläche), a₁ (untere Grundseite), a₂ (obere Grundseite), sₕ (Seitenhöhe) folgender quadratischer Pyramidenstümpfe
+    1. Teilaufgabe a
+        - V = 10l
+        - h = 15cm
+        - a₂ = 10cm
+    2. Teilaufgabe b
+        - A₀ = 10 000cm
+        - a₁ = 10cm
+        - a₂ = 5cm
+    3. Teilaufgabe c
+        - h = 10cm
+        - a₁ = 10cm
+        - a₂ = 10cm
+3. Berechne V, A₀, α, s, r₁, r₂ und h für folgende Kegelstümpfe
+    1. Teilaufgabe a
+        - r₁ = 10cm
+        - r₂ = 5cm
+        - h = 11cm
+    2. Teilaufgabe b
+        - h = 1cm
+        - r₁ = 1,5cm
+        - r₂ = 2cm
+    3. Teilaufgabe c
+        - V = 1l
+        - h = 1cm
+        - r₁ = 1cm
+        - h = 1cm
