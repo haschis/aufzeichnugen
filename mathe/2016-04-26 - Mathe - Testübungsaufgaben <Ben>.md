@@ -49,3 +49,5 @@
 | A₀| 7960491cm² | kommt | kommt |
 | α | 0,61° | kommt | kommt |
 | β | 0,87° | kommt | kommt |
+
+- [Lösungsweg 2a)](https://github.com/haschis/aufzeichnugen/blob/master/mathe/2016-04-26%20-%20Mathe%20-%20Test%C3%BCbungsaufgaben%20Lsg%202a%20%3CBen%3E.pdf)
