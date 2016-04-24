@@ -6,7 +6,7 @@
     - h = 3cm
     - a₁ = 4cm
     - a₂ = 2cm
-2. Berechne V, A₀, α (Neigungswinkel der Seitenkante), β (Neigungswinkel der Seitenfläche), a₁ (untere Grundseite), a₂ (obere Grundseite), sₕ (Seitenhöhe) folgender quadratischer Pyramidenstümpfe
+2. Berechne V, A₀, α (Neigungswinkel der Seitenkante), β (Neigungswinkel der Seitenfläche), a₁ (untere Grundseite), a₂ (obere Grundseite), sₕ (Seitenhöhe) folgender quadratischer Pyramidenstümpfe, s (Seitenkante)
     1. Teilaufgabe a
         - V = 10l
         - h = 15cm
@@ -33,3 +33,19 @@
         - h = 1cm
         - r₁ = 1cm
         - h = 1cm
+
+
+## Lösungen
+
+### Aufgabe 2
+| Werte | a | b | c |
+| ----- | - | - | - |
+| a₁    | 1995cm | | |
+| a₂    | **10cm** | | |
+| h | **15cm** | | |
+| s | 1403,69cm | | |
+| sₕ | 992,61cm | | |
+| V | **10l** | | |
+| A₀| 7960491cm² | | |
+|α | 0,61° | | |
+| β | 0,87° | | |
