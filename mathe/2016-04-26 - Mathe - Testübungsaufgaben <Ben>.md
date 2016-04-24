@@ -40,15 +40,15 @@
 ### Aufgabe 2
 | Werte | a | b | c |
 | ----- | --- | --- | ---- |
-| a₁    | 1995cm | **10cm** | kommt |
-| a₂    | **10cm** | **5cm** | kommt |
-| h | **15cm** | 329,13cm | kommt |
-| s | 1403,69cm | 329,15cm | kommt |
-| sₕ | 992,61cm | 329,1667cm | kommt |
-| V | **10l** | 14489,52cm³ | kommt |
-| A₀| 7960491cm² | **10000cm²** | kommt |
-| α | 0,61° | 88,77° | kommt |
-| β | 0,87° | 89,13° | kommt |
+| a₁    | 1995cm | **10cm** | **10cm** |
+| a₂    | **10cm** | **5cm** | **10cm** |
+| h | **15cm** | 329,13cm | **10cm** |
+| s | 1403,69cm | 329,15cm | 10cm |
+| sₕ | 992,61cm | 329,1667cm | 10cm |
+| V | **10l** | 14489,52cm³ | 1000cm³ |
+| A₀| 7960491cm² | **10000cm²** | 600cm² |
+| α | 0,61° | 88,77° | 90° |
+| β | 0,87° | 89,13° | 90°|
 
 - [Lösungsweg 2a)](https://github.com/haschis/aufzeichnugen/blob/master/mathe/2016-04-26%20-%20Mathe%20-%20Test%C3%BCbungsaufgaben%20Lsg%202a%20%3CBen%3E.pdf)
 - [Lösungsweg 2b)](https://github.com/haschis/aufzeichnugen/blob/master/mathe/2016-04-26%20-%20Mathe%20-%20Test%C3%BCbungsaufgaben%20Lsg%202b%20%3CBen%3E.pdf)
