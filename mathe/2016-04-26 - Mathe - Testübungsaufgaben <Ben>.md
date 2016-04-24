@@ -37,7 +37,7 @@
 
 ## Lösungen
 
-### Aufgabe 2s
+### Aufgabe 2
 | Werte | a | b | c |
 | ----- | --- | --- | ---- |
 | a₁    | 1995cm | kommt | kommt |
