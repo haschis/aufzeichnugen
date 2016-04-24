@@ -39,13 +39,13 @@
 
 ### Aufgabe 2s
 | Werte | a | b | c |
-| ----- | - | - | - |
-| a₁    | 1995cm | - | - |
-| a₂    | **10cm** | - | - |
-| h | **15cm** | - | - |
-| s | 1403,69cm | - | - |
-| sₕ | 992,61cm | - | - |
-| V | **10l** | - | - |
-| A₀| 7960491cm² | - | - |
-| α | 0,61° | - | - |
-| β | 0,87° | - | - |
+| ----- | --- | --- | ---- |
+| a₁    | 1995cm | kommt | kommt |
+| a₂    | **10cm** | kommt | kommt |
+| h | **15cm** | kommt | kommt |
+| s | 1403,69cm | kommt | kommt |
+| sₕ | 992,61cm | kommt | kommt |
+| V | **10l** | kommt | kommt |
+| A₀| 7960491cm² | kommt | kommt |
+| α | 0,61° | kommt | kommt |
+| β | 0,87° | kommt | kommt |
