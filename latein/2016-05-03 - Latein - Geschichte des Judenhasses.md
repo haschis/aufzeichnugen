@@ -6,7 +6,7 @@
 - => Auszug aus Ägypten (Exodus)
 
 ## Rom
-- Judäa seit 6. JH v. Chr. durch Rom besetzt
+- Judäa seit 6 n. Chr. durch Rom besetzt
 - Zwiespalt mit römischen Besatzern
 - da Verweigerung des Kaiserkults (Bilderverbot)
 - => viele Aufstände
