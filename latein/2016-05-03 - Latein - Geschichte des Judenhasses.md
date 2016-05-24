@@ -44,7 +44,21 @@
 - => Antisemiten gründen Parteien & Verbände
 
 ## 20. Jahrhundert
-- 
+- Judenhass besteht immer noch, besonders in rechten und elitären Kreisen
+- Gipfel: NS-Reich
+  - stufenweise Entrechtung der Juden:
+    - erst nur gesellschaftlich verteufelt
+    - zum Schluss: Deportation aller (soweit es den Nazis möglich war) Juden in Vernichtungslager => **Gipfel des Judenhasses**
+- => Gründung des Staates Israel
+  - Juden bekommen eigenen Staat
+  - Versuch der Beseitigung des Status als "Volk unter den Völkern"
+  - aber auch umstritten (vor allem durch Rechte)
+  - Probleme auch, da jetzt Staat mit Militär etc. (z.B. Palästina)
+
+## Gegenwart
+- in vielen Kulturkreisen subitiler Judenhass
+  - Bestehen alter Vorurteile (jüdische Weltverschwörung, Macht durch Geld, doppelte Loyalität)
+- akute Auseinandersetzungen (z.B. mit Palästina)
 
 ## Quellen
 - Actio 2 S. 126 f.
