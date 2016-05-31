@@ -23,6 +23,7 @@ eteil(alexandra, mathies).
 eteil(andreas, mathies).
 eteil(alexandra, sophie).
 eteil(andreas, sophie).
+eteil(paul, bernhard).
 
 weiblich(charlotte).
 weiblich(claudia).
@@ -41,8 +42,9 @@ maennlich(jonas).
 maennlich(felix).
 maennlich(juergen).
 maennlich(andreas).
+maennlich(paul).
 
-kind(X,Y):- eteil(Y,X).
+kind(X,Y) :- eteil(Y,X).
 vater(X,Y) :- eteil(X,Y), maennlich(X).
 mutter(X,Y) :- eteil(X,Y), weiblich(X).
 geschwister(X,Y) :- eteil(E,X), eteil(E,Y), X \== Y.
@@ -56,3 +58,10 @@ neffe(N,T) :- geschwisterkind(N,T), maennlich(N).
 nichte(N,T) :- geschwisterkind(N,T), weiblich(N).
 tante(T,N) :- geschwisterkind(N,T), weiblich(T).
 onkel(O,N) :- geschwisterkind(N,O), maennlich(O).
+
+urgroßvater(U,Urenkel) :- maennlich(U), eteil(U,Großeteil), eteil(Großeteil,Parent), eteil(Parent,Urenkel).
+
+mutter(X, Y) :- eteil(X, Y), weiblich(X).
+großvater(X, Z) :- eteil(X, Y), eteil(Y, Z), maennlich(X).
+geschwister(X, Z) :- eteil(Mutter, X), eteil(Mutter, Z), eteil(Vater, X), eteil(Vater, Z), X \== Z, Vater \== Mutter.
+neutralerneffe(X,Onkeltante) :- eteil(Z,X), geschwister(Z,Onkeltante).
