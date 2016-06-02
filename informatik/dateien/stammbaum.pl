@@ -1,4 +1,4 @@
-% Autor:
+#% Autor:
 % Datum: 18.05.2016
 
 eteil(burkhard, ben).
@@ -48,7 +48,7 @@ kind(X,Y) :- eteil(Y,X).
 vater(X,Y) :- eteil(X,Y), maennlich(X).
 mutter(X,Y) :- eteil(X,Y), weiblich(X).
 geschwister(X,Y) :- eteil(E,X), eteil(E,Y), X \== Y.
-bruder(X,Y) :- geschwister(X,Y), maennlich(X).
+bruder(X,Y) :- geschw0ister(X,Y), maennlich(X).
 schwester(X,Y) :- geschwister(X,Y), weiblich(X).
 grosseteil(G,E) :- eteil(G,K), eteil(K,E).
 grossvater(G,E) :- grosseteil(G,E), maennlich(G).
