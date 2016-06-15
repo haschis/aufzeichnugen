@@ -1,4 +1,4 @@
-#% Autor:
+% Autor:
 % Datum: 18.05.2016
 
 eteil(burkhard, ben).
@@ -48,7 +48,7 @@ kind(X,Y) :- eteil(Y,X).
 vater(X,Y) :- eteil(X,Y), maennlich(X).
 mutter(X,Y) :- eteil(X,Y), weiblich(X).
 geschwister(X,Y) :- eteil(E,X), eteil(E,Y), X \== Y.
-bruder(X,Y) :- geschw0ister(X,Y), maennlich(X).
+bruder(X,Y) :- geschwister(X,Y), maennlich(X).
 schwester(X,Y) :- geschwister(X,Y), weiblich(X).
 grosseteil(G,E) :- eteil(G,K), eteil(K,E).
 grossvater(G,E) :- grosseteil(G,E), maennlich(G).
@@ -59,9 +59,28 @@ nichte(N,T) :- geschwisterkind(N,T), weiblich(N).
 tante(T,N) :- geschwisterkind(N,T), weiblich(T).
 onkel(O,N) :- geschwisterkind(N,O), maennlich(O).
 
-urgroßvater(U,Urenkel) :- maennlich(U), eteil(U,Großeteil), eteil(Großeteil,Parent), eteil(Parent,Urenkel).
+info :- write("Geben sie ein Beziehung gefolgt von einem Punkt ein, um sie zu ermitteln."),
+        nl,
+        write("Es sind verfügabar: kind").
 
-mutter(X, Y) :- eteil(X, Y), weiblich(X).
-großvater(X, Z) :- eteil(X, Y), eteil(Y, Z), maennlich(X).
-geschwister(X, Z) :- eteil(Mutter, X), eteil(Mutter, Z), eteil(Vater, X), eteil(Vater, Z), X \== Z, Vater \== Mutter.
-neutralerneffe(X,Onkeltante) :- eteil(Z,X), geschwister(Z,Onkeltante).
+kind :- write("Geben sie ein Elternteil in Kleinbuchstaben geflogt von einem Punkt ein um dessen Kinder zu bekommen!"),
+        nl,
+        read(E),
+        kind(X,E),
+        nl,
+        write(X), write(" ist kind von "), write(E),
+        fail.
+
+elternteil :- write("Geben sie den Namen des Elternteils in Kleinbuchstaben an, um sein Kinder zu bekommen oder Y für Unbekannt."),
+              nl,
+              read(E),
+              nl,
+              write("Geben sie das kind....."),
+              nl,
+              read(K),
+              eteil(E, K),
+              nl,
+              write(E), write(" ist Elternteil von "), write(K),
+              fail.
+
+
